@@ -1,4 +1,3 @@
-theme: jekyll-theme-slate
-title: Sascha Reynolds
-description: personal website
-email: sreynolds@g.hmc.edu
+name: Sascha Reynolds
+markdown: kramdown
+
